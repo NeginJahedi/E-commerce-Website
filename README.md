@@ -114,9 +114,4 @@ This project demonstrates strong problem-solving skills, full-stack development 
 - Frontend styling with responsiveness
 - Debugging and managing complex workflows
 
----
-
-## Deployment
-
-The project can be deployed on platforms like Heroku or Render for public access. A local deployment guide is available in the repository README.
 
