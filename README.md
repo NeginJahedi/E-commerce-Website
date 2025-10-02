@@ -1,7 +1,11 @@
 #  CS50 Shop
   An Online Shop for Selling & Buying Clothes
 
-#### [Video Demo](https://youtu.be/agswBqxFVQo)
+#### [Watch Video Demo On Youtube](https://youtu.be/agswBqxFVQo)
+
+
+
+![CS50 shop demo](./CS50shop-demo.gif)
 
 ## Table of Contents
 
@@ -129,5 +133,6 @@ Owner specific
 
 ## Acknowledgments: 
 For learning the syntax of how to upload and store an image I did use Chatgpt's help.
+
 
 #### Author : **Negin Jahedi**
